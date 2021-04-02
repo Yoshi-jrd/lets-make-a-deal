@@ -1,0 +1,71 @@
+/* Stylesheet for Pick a Door mini-Project */
+
+body{
+    text-align: center;
+    background-color: #d3d3d3;
+}
+header{
+    background-color: #312d4b;
+    color: #ddd;
+    text-shadow: #ddd 1px 0 10px;
+    height: max-content;
+    padding: 20px;
+    margin: 0 1% 0 1%;
+}
+.pick{
+    font-size: 50px;
+}
+.door{
+    margin: 2% 2%;
+}
+#door1{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.n3gA5pA3J16euP6PGqExawHaI4%26pid%3DApi&f=1);
+    height: 300px;
+    width: 260px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-block;   
+    text-indent: -9999px;
+}
+#door2{
+    background-image: url(https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.W8DShAttP6lBqBS0wutZbwAAAA%26pid%3DApi&f=1);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    width: 190px;
+    display: inline-block;   
+    text-indent: -9999px;
+}
+#door3{
+    background-image: url(https://idighardware.com/wp-content/uploads/2013/01/Brass-Door-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+    height: 300px;
+    width: 190px;
+    display: inline-block;   
+    text-indent: -9999px;
+}
+#rick{
+    height: auto;
+    width: 200px;
+}
+#dumpster{
+    width: 200px;
+    height: auto;
+}
+.picard-final{
+    margin: 100px 0 0 0;
+    width: 500px;
+    height: auto;
+}
+.dumpster-final{
+    margin: 100px 0 0 0;
+    width: 500px;
+    height: auto;
+}
+.rick-final{
+    margin: 100px 0 0 0;
+    width: 500px;
+    height: auto;
+}
